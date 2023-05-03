@@ -4,15 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi, my name is Teis and I am a software engineer located in Bergen, the west coast of Norway. I am working as a senior consultant in [Miles Bergen](https://miles.no) and love to write code. My preferences is backend development, but I have no problem doing some frontend as well.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+In my spare time, I co-own a music [festival](https://beitostolenlive.no) in a small mountain village in Norway called Beitostølen.
